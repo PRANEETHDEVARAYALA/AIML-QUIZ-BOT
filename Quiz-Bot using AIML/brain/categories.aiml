@@ -1,0 +1,6 @@
+<aiml version="1.0.1" encoding="UTF-8">
+    <category>
+        <pattern>COMPUTER SCIENCE</pattern>
+        <template>Great! Let's begin. Here's your first question: What is the time complexity of binary search? (A) O(n) (B) O(log n) (C) O(n log n) (D) O(n^2)</template>
+    </category>
+</aiml>

@@ -1,0 +1,24 @@
+<category>
+    <pattern>WHAT IS THE CAPITAL OF FRANCE</pattern>
+    <template>Here are your options:<br/> A) Paris <br/> B) London <br/> C) Berlin <br/> D) Madrid</template>
+</category>
+
+<category>
+    <pattern>A</pattern>
+    <template>Correct! Paris is the capital of France.</template>
+</category>
+
+<category>
+    <pattern>B</pattern>
+    <template>Incorrect. The correct answer is Paris.</template>
+</category>
+
+<category>
+    <pattern>C</pattern>
+    <template>Incorrect. The correct answer is Paris.</template>
+</category>
+
+<category>
+    <pattern>D</pattern>
+    <template>Incorrect. The correct answer is Paris.</template>
+</category>

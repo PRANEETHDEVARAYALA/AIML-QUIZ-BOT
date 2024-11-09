@@ -1,0 +1,11 @@
+<aiml version="1.0.1" encoding="UTF-8">
+    <category>
+        <pattern>HELLO</pattern>
+        <template>Hello! Welcome to the Computer Science Quiz. Type "START QUIZ" to begin.</template>
+    </category>
+
+    <category>
+        <pattern>START QUIZ</pattern>
+        <template>Please choose a category: COMPUTER SCIENCE.</template>
+    </category>
+</aiml>
